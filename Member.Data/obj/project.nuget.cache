@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tN6p8S1dTkV0u5hma4l/Xjru0PkCPjS5rzHRUCMSFAuljdP4qg79cs+e6n2pAwgjc53D827VrO4bp6hhFaiDkg==",
+  "success": true,
+  "projectFilePath": "/Users/thabomagakula/Documents/SourceCode/Member.API/Member.Data/Member.Data.csproj",
+  "expectedPackageFiles": [
+    "/Users/thabomagakula/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/thabomagakula/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
